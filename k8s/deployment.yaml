@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: wisecow
-          image: _{_IMAGE_}_
+          image: utkarsh098/wisecow:latest
           ports:
             - containerPort: 4499
